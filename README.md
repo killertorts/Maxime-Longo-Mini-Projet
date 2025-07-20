@@ -54,5 +54,6 @@ This project is a Semi functional internal dashboard built to monitor and manage
 - Fine-tuning button functionality like random simulations and dropdown deletion required trial and error.
 
 ---
+Being primarily a web developer, i used my strengths in order to complete this to the best of my ability. 
 
-This project helped reinforce my understanding of modern React workflows and UI state management, and it's designed to be easily updated and reflect a semi professional internal tool for telecom use.
+This project helped reinforce my understanding of modern React workflows and UI state management, and it's designed to be easily updated and reflect a semi professional internal tool for telecom use. 
